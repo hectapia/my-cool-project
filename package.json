@@ -1,0 +1,14 @@
+{
+  "name": "my-cool-project",
+  "version": "1.0.0",
+  "description": "WDD330 final project",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Hector Olivares Tapia <oli21007@byui.edu>",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.10.3"
+  }
+}
